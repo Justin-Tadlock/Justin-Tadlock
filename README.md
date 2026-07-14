@@ -1,6 +1,12 @@
 # 💫 About Me:
-I'm a software engineer with 7+ years of experience.<br>For most of my career I've worked as either a fullstack developer, or a front-end engineer.<br>My new goal is to enhance my knowledge and experience to transition to being a full back-end engineer so that I can see how I like that domain of software engineering.<br><br>I love video games, west coast swing dancing, and technical trading.<br>If you don't see me coding, you can definitely find me either playing video games, studying technical trading, or practicing west coast swing.<br>
+I'm a software engineer with 7+ years of experience.  
+For most of my career I've worked as either a fullstack developer, or a front-end engineer.
 
+My goals include enhancing my knowledge and experience to own the entire delivery pipeline.  
+Currently seeking remote DevOps Engineer or Site Reliability Engineer roles.
+
+I love video games, west coast swing dancing, and technical trading.  
+If you don't see me coding, you can definitely find me either playing video games, studying technical trading, or practicing west coast swing.
 
 # 💻 Tech Stack:
 ![Bash Script](https://img.shields.io/badge/bash_script-%23121011.svg?style=for-the-badge&logo=gnu-bash&logoColor=white)
